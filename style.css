@@ -1,4 +1,8 @@
 div.header
 {
-background-image: url("transistor-loop.gif")
+background-image: url("https://www.supergiantgames.com/webhook-uploads/1423611328370/transistor_loop.gif");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+height:auto;
 }
