@@ -1,4 +1,5 @@
 div.header
 {
-background-image: url("transistor-loop.gif")
+background-image: url("transistor-loop.gif");
+background-color: blue;
 }
