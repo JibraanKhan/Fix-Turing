@@ -1,8 +1,9 @@
 body{ /* Different background */
   background-image: url("https://jibraankhan.github.io/Fix-Turing/images/Fantasy%20Theme%20Background.png");
   background-repeat: no-repeat;
-  width:100%;
-  height:600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 
 h1{ /* Move to center */
