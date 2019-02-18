@@ -1,7 +1,36 @@
-div.header
-{
+body{ /* Different background */
   background-image: url("https://jibraankhan.github.io/Fix-Turing/images/Fantasy%20Theme%20Background.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
+
+h1{ /* Move to center */
+
+}
+
+div.header /* Maybe different background? */
+{
+
+}
+
+div.day-box.PREP{
+  border-style: groove;
+  border-color: 'green'
+}
+
+div.day-box.CURRENT{
+  border-style: groove;
+  border-color: 'red'
+}
+
+div.day-box.COMPLETED{
+  border-style: groove;
+  border-color: 'black'
+}
+/* The Divs due tomorrow are completely opaque and stand out.
+   The Divs that have been completed are translucent and use
+   brown and blue dark colors to seem irrelevant.
+   The Preps in class  are grassy green and have sandy
+   texture with them. Sort of nature-like.
+*/
