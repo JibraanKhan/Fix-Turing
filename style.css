@@ -3,7 +3,7 @@ div:not(.header){ /* Different background */
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 
 h1{ /* Move to center */
@@ -18,19 +18,19 @@ div.header /* Maybe different background? */
 div.day-box.PREP{
   border-style: double;
   border-width: thick;
-  border-color: 'green';
+  border-color: green;
 }
 
 div.day-box.CURRENT{
   border-style: double;
   border-width: thick;
-  border-color: 'red';
+  border-color: red;
 }
 
 div.day-box.COMPLETED{
   border-style: double;
   border-width: thick;
-  border-color: 'black';
+  border-color: black;
 }
 /* The Divs due tomorrow are completely opaque and stand out.
    The Divs that have been completed are translucent and use
