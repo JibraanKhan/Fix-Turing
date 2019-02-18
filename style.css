@@ -16,17 +16,20 @@ div.header /* Maybe different background? */
 }
 
 div.day-box.PREP{
-  border-style: groove;
+  border-style: double;
+  border-width: thick;
   border-color: 'green';
 }
 
 div.day-box.CURRENT{
-  border-style: groove;
+  border-style: double;
+  border-width: thick;
   border-color: 'red';
 }
 
 div.day-box.COMPLETED{
-  border-style: groove;
+  border-style: double;
+  border-width: thick;
   border-color: 'black';
 }
 /* The Divs due tomorrow are completely opaque and stand out.
