@@ -1,4 +1,4 @@
-body:not(div.header){ /* Different background */
+div:not(.header){ /* Different background */
   background-image: url("https://jibraankhan.github.io/Fix-Turing/images/Fantasy%20Theme%20Background.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
