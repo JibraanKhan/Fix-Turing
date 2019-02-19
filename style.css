@@ -27,18 +27,21 @@ div.day-box.PREP{
   border-style: double;
   border-width: thick;
   border-color: green;
+  color: silver;
 }
 
 div.day-box.CURRENT{
   border-style: double;
   border-width: thick;
   border-color: red;
+  color: silver;
 }
 
 div.day-box.COMPLETED{
   border-style: double;
   border-width: thick;
   border-color: black;
+  color: silver;
 }
 /* The Divs due tomorrow are completely opaque and stand out.
    The Divs that have been completed are translucent and use
