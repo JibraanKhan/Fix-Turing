@@ -27,7 +27,7 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-width: thick;
   text-align: center;
   font-size: 45px;
-  background-color: brown;
+  background-color: #ff8d14;
   margin-top: 50px;
 }
 
