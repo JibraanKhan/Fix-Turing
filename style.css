@@ -13,7 +13,6 @@ h1{ /* Move to center */
 p{
   text-transform: full-width;
   color: white;
-  background-image: url("https://jibraankhan.github.io/Fix-Turing/images/Fantasy%20Box.jpg");
   border-width: medium;
   border-color: brown;
 }
@@ -28,6 +27,7 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-width: thick;
   text-align: center;
   font-size: 20px;
+  background-image: url("https://jibraankhan.github.io/Fix-Turing/images/Fantasy%20Box.jpg");
 }
 
 div.day-box.PREP{
