@@ -23,25 +23,26 @@ div.header /* Maybe different background? */
 
 }
 
-div.day-box.PREP{
+div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-style: double;
   border-width: thick;
+  text-align: center;
+  font-size: 20px;
+}
+
+div.day-box.PREP{
   border-color: green;
-  color: silver;
+  color: green;
 }
 
 div.day-box.CURRENT{
-  border-style: double;
-  border-width: thick;
   border-color: red;
-  color: silver;
+  color: red;
 }
 
 div.day-box.COMPLETED{
-  border-style: double;
-  border-width: thick;
   border-color: black;
-  color: silver;
+  color: black;
 }
 /* The Divs due tomorrow are completely opaque and stand out.
    The Divs that have been completed are translucent and use
