@@ -23,14 +23,12 @@ div.header /* Maybe different background? */
 }
 
 div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
-  border-style: double;
+  border-style: groove;
   border-width: thick;
   text-align: center;
   font-size: 45px;
-  background-position: center;
-  background-size: 100% 100%;
-  background-image: url("https://jibraankhan.github.io/Fix-Turing/images/Fantasy%20Box.jpg");
-  background-repeat: no-repeat;
+  background-color: brown;
+  margin-top: 50px;
 }
 
 div.day-box.PREP{
