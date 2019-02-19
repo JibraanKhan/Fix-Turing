@@ -27,24 +27,25 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-width: thick;
   text-align: center;
   font-size: 45px;
-  background-color: #b2793c;
   margin-top: 50px;
+  border-width: 15px;
+  color: white;
 }
 
 div.day-box.PREP{
   border-color: green;
-  color: darkgreen;
+  background-color: #1ca05e;
 }
 
 div.day-box.CURRENT{
   border-color: red;
-  color: darkred;
+  background-color: #af1315;
 }
 
 div.day-box.COMPLETED{
   border-color: black;
-  color: black;
   opacity: 0.5;
+  background-color: #3d3a3a;
 }
 /* The Divs due tomorrow are completely opaque and stand out.
    The Divs that have been completed are translucent and use
