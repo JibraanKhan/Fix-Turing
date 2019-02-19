@@ -13,7 +13,9 @@ h1{ /* Move to center */
 p{
   text-transform: full-width;
   color: white;
-  background-image: url("https://jibraankhan.github.io/Fix-Turing/images/Fantasy%20Box.jpg")
+  background-image: url("https://jibraankhan.github.io/Fix-Turing/images/Fantasy%20Box.jpg");
+  border-width: medium;
+  border-color: brown;
 }
 
 div.header /* Maybe different background? */
