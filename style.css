@@ -31,7 +31,7 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-width: 15px;
   color: white;
   width: 50%;
-  margin-left: 50%;
+  margin-left: 25%;
 }
 
 div.day-box.PREP{
