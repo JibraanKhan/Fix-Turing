@@ -46,7 +46,7 @@ div.day-box.CURRENT{
 
 div.day-box.COMPLETED{
   border-color: black;
-  opacity: 0.5;
+  opacity: 0.75;
   background-color: #3d3a3a;
 }
 /* The Divs due tomorrow are completely opaque and stand out.
