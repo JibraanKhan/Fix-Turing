@@ -18,7 +18,6 @@ p{
 }
 
 div.header{
-  text-align: center;
 }
 
 div.nav /* Maybe different background? */
@@ -27,7 +26,7 @@ div.nav /* Maybe different background? */
   margin-left: 80%;
 }
 
-div.person_info{
+div.header > div.person_info{
   position: absolute;
 }
 
