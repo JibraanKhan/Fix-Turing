@@ -18,6 +18,10 @@ p{
 }
 
 div.header{
+  background-color: plum;
+  border-radius: 25px;
+  border-style: groove;
+  border-width: thick
 }
 
 div.nav /* Maybe different background? */
@@ -26,10 +30,9 @@ div.nav /* Maybe different background? */
   margin-left: 80%;
 }
 
-div.header > div.person_info{
-  position: absolute;
+div.person_info{
+  float:left;
 }
-
 
 
 div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
@@ -42,6 +45,7 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   color: white;
   width: 50%;
   margin-left: 25%;
+  border-radius: 25px;
 }
 
 div.day-box.PREP{
