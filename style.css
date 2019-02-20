@@ -27,6 +27,10 @@ div.nav /* Maybe different background? */
   margin-left: 80%;
 }
 
+div.person_info{
+  position: absolute;
+}
+
 
 
 div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
