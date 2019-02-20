@@ -32,8 +32,13 @@ div.nav /* Maybe different background? */
 
 div.person_info{
   float:left;
+  width: 200px;
+  height: 200px;
 }
 
+div.header > div.partners > div.person_info{
+  margin-top: 15
+}
 
 div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-style: groove;
