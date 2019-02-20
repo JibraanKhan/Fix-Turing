@@ -17,10 +17,17 @@ p{
   border-color: brown;
 }
 
-div.header /* Maybe different background? */
-{
-  background-image: url("https://jibraankhan.github.io/Fix-Turing/images/Blurry%20Gradient.png");
+div.header{
+  text-align: center;
 }
+
+div.nav /* Maybe different background? */
+{
+  font-size: 40px;
+  margin-left: 80%;
+}
+
+
 
 div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-style: groove;
