@@ -143,3 +143,14 @@ div.assignment_prompt
   width: 100px;
   height: 100px;
 }
+
+
+tbody{
+  text-align: center;
+
+}
+td, tr{
+ font-size: 30px;
+ background-color: blueviolet;
+ border: 5px solid black;
+}
