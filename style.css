@@ -58,6 +58,11 @@ div.day-box.PREP, div.day-box.CURRENT, div.day-box.COMPLETED{
   border-radius: 25px;
 }
 
+.username {
+  font-size: 20px;
+}
+
+
 div.day-box.PREP{
   border-color: green;
   background-color: #1ca05e;
@@ -94,4 +99,47 @@ div.assignment_prompt
   border-radius: 25px;
   border-color: green;
   background-color: #1ca05e;
+}
+
+.notes{
+  border-top: 5px solid black;
+
+}
+
+.prep-box{
+  border-bottom: 5px solid black;
+
+}
+
+.reading-box{
+  border-bottom: 5px solid black;
+}
+
+.lab-box{
+  border-top:5px solid black
+
+}
+.account_form{
+  border-radius: 25px;
+   border-style: groove;
+  border-width: thick;
+  text-align: center;
+  background-color: white;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  margin-left: 12.5%;
+   border-color: green;
+  background-color: #1ca05e;
+
+}
+
+.account_form input{
+  margin-bottom: 20px
+}
+
+.person_image{
+  width: 100px;
+  height: 100px;
 }
